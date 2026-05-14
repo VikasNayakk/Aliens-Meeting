@@ -1,0 +1,74 @@
+[10:06:00] Yogesh Khand JOIN
+[11:00:00] Yogesh Khand LEAVE
+[10:06:00] Anita Nayak JOIN
+[11:00:00] Anita Nayak LEAVE
+[10:06:00] Pooja Nayak JOIN
+[11:00:00] Pooja Nayak LEAVE
+[10:06:00] Parveen Kumar JOIN
+[11:00:00] Parveen Kumar LEAVE
+[10:06:00] Gurpreet Singh JOIN
+[11:00:00] Gurpreet Singh LEAVE
+[10:06:00] Mandeep Kaur JOIN
+[11:00:00] Mandeep Kaur LEAVE
+[10:06:00] Raju Singh JOIN
+[11:00:00] Raju Singh LEAVE
+[10:06:00] Jaspal Byavat JOIN
+[11:00:00] Jaspal Byavat LEAVE
+[10:06:00] Rajesh Nayak JOIN
+[11:00:00] Rajesh Nayak LEAVE
+[10:06:00] Sumit JOIN
+[11:00:00] Sumit LEAVE
+[10:06:00] Dinesh JOIN
+[11:00:00] Dinesh LEAVE
+[10:06:00] Aira JOIN
+[11:00:00] Aira LEAVE
+[10:06:00] Pawan JOIN
+[11:00:00] Pawan LEAVE
+[10:06:00] Harpreet Singh JOIN
+[11:00:00] Harpreet Singh LEAVE
+[10:06:00] Manoj JOIN
+[11:00:00] Manoj LEAVE
+[10:06:00] Somveer JOIN
+[11:00:00] Somveer LEAVE
+[10:06:00] Suyogita JOIN
+[11:00:00] Suyogita LEAVE
+[10:06:00] Chhagan Singh JOIN
+[11:00:00] Chhagan Singh LEAVE
+[10:06:00] Neha JOIN
+[11:00:00] Neha LEAVE
+[10:00:00] Vikas Nayak JOIN
+[11:00:00] Vikas Nayak LEAVE
+[10:00:00] A'dii Sunlay JOIN
+[11:00:00] A'dii Sunlay LEAVE
+[10:00:00] Harish Jaypal JOIN
+[11:00:00] Harish Jaypal LEAVE
+[10:00:00] Arnav Bishnoi JOIN
+[11:00:00] Arnav Bishnoi LEAVE
+[10:00:00] Himanshu Nayak JOIN
+[11:00:00] Himanshu Nayak LEAVE
+[10:00:00] Rajani Rani JOIN
+[11:00:00] Rajani Rani LEAVE
+[10:00:00] Gagan Chouhan JOIN
+[11:00:00] Gagan Chouhan LEAVE
+[10:00:00] Pawan Kumar JOIN
+[11:00:00] Pawan Kumar LEAVE
+[10:00:00] Poonam Kumari JOIN
+[11:00:00] Poonam Kumari LEAVE
+[10:00:00] Prem Kumar JOIN
+[11:00:00] Prem Kumar LEAVE
+[10:00:00] Sunil Kori JOIN
+[11:00:00] Sunil Kori LEAVE
+[10:00:00] Khushbu Rani JOIN
+[11:00:00] Khushbu Rani LEAVE
+[10:00:00] Tarachand JOIN
+[11:00:00] Tarachand LEAVE
+[10:00:00] Gotam JOIN
+[11:00:00] Gotam LEAVE
+[10:00:00] Sandeep Barupal JOIN
+[11:00:00] Sandeep Barupal LEAVE
+[10:00:00] Nitesh Aggrwal JOIN
+[11:00:00] Nitesh Aggrwal LEAVE
+[10:00:00] Paras Aggrwal JOIN
+[11:00:00] Paras Aggrwal LEAVE
+[10:00:00] Darsh JOIN
+[11:00:00] Darsh LEAVE

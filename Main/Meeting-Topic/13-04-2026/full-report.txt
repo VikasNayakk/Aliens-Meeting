@@ -1,0 +1,638 @@
+--- Attendance JSON ---
+
+{
+  "date": "2026-04-13",
+  "meeting_start": "10:00:00",
+  "meeting_end": "11:00:00",
+  "late_after_seconds": 300,
+  "total_members": 38,
+  "total_events": 46,
+  "participants": [
+    {
+      "name": "A'dii Sunlay",
+      "join_times": [
+        "10:00:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:00:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3600,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": false
+    },
+    {
+      "name": "Anita Nayak",
+      "join_times": [
+        "10:00:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:00:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3600,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": false
+    },
+    {
+      "name": "Arnav Bishnoi",
+      "join_times": [
+        "10:00:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:00:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3600,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": false
+    },
+    {
+      "name": "Bhavishya Jiyani",
+      "join_times": [
+        "10:00:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:00:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3600,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": false
+    },
+    {
+      "name": "Dinesh Kumar",
+      "join_times": [
+        "10:00:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:00:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3600,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": false
+    },
+    {
+      "name": "Gagan Nayak",
+      "join_times": [
+        "10:00:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:00:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3600,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": false
+    },
+    {
+      "name": "Mamta Nayak",
+      "join_times": [
+        "10:00:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:00:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3600,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": false
+    },
+    {
+      "name": "Pooja Nayak",
+      "join_times": [
+        "10:00:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:00:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3600,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": false
+    },
+    {
+      "name": "Pooja Sudiya",
+      "join_times": [
+        "10:00:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:00:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3600,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": false
+    },
+    {
+      "name": "Poonam Kumari",
+      "join_times": [
+        "10:00:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:00:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3600,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": false
+    },
+    {
+      "name": "Rajani Rani",
+      "join_times": [
+        "10:00:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:00:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3600,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": false
+    },
+    {
+      "name": "Rajesh Nayak",
+      "join_times": [
+        "10:00:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:00:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3600,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": false
+    },
+    {
+      "name": "Raju Singh",
+      "join_times": [
+        "10:00:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:00:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3600,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": false
+    },
+    {
+      "name": "Sahiram Nayak",
+      "join_times": [
+        "10:00:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:00:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3600,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": false
+    },
+    {
+      "name": "Sandeep Barupal",
+      "join_times": [
+        "10:00:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:00:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3600,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": false
+    },
+    {
+      "name": "Tarachand Lohara",
+      "join_times": [
+        "10:00:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:00:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3600,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": false
+    },
+    {
+      "name": "Vikas Nayak",
+      "join_times": [
+        "10:00:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:00:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3600,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": false
+    },
+    {
+      "name": "Abhinav Bishnoi",
+      "join_times": [
+        "10:06:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:06:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3240,
+      "late": true,
+      "late_by_sec": 360,
+      "absent": false
+    },
+    {
+      "name": "Ajay Nayak",
+      "join_times": [
+        "10:06:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:06:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3240,
+      "late": true,
+      "late_by_sec": 360,
+      "absent": false
+    },
+    {
+      "name": "Darsh Bishnoi",
+      "join_times": [
+        "10:06:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:06:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3240,
+      "late": true,
+      "late_by_sec": 360,
+      "absent": false
+    },
+    {
+      "name": "Himanshu Nayak",
+      "join_times": [
+        "10:06:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:06:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3240,
+      "late": true,
+      "late_by_sec": 360,
+      "absent": false
+    },
+    {
+      "name": "Prem Kumar",
+      "join_times": [
+        "10:06:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:06:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3240,
+      "late": true,
+      "late_by_sec": 360,
+      "absent": false
+    },
+    {
+      "name": "Sunil Kori",
+      "join_times": [
+        "10:06:00"
+      ],
+      "leave_times": [
+        "11:00:00"
+      ],
+      "first_join": "10:06:00",
+      "last_leave": "11:00:00",
+      "total_duration_sec": 3240,
+      "late": true,
+      "late_by_sec": 360,
+      "absent": false
+    },
+    {
+      "name": "Aira",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Dinesh",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Gagan Chouhan",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Gagan Kumar",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Gurpreet Singh",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Harpreet Singh",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Jaspal Byavat",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Khushbu Rani",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Mandeep Kaur",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Navraj Singh",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Nitesh Aggrwal",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Paras Aggrwal",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Parveen Kumar",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Pawan Kumar",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Pawan Meghwal",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Rajveer Nayak",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Sapna",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Shyo Chand",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Sumit",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Tarachand",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    },
+    {
+      "name": "Yogesh Khand",
+      "join_times": [],
+      "leave_times": [],
+      "first_join": null,
+      "last_leave": null,
+      "total_duration_sec": 0,
+      "late": false,
+      "late_by_sec": 0,
+      "absent": true
+    }
+  ]
+}
+
+
+--- Events Log / Transcript ---
+
+[10:06:00] Abhinav Bishnoi JOIN
+[11:00:00] Abhinav Bishnoi LEAVE
+[10:06:00] Himanshu Nayak JOIN
+[11:00:00] Himanshu Nayak LEAVE
+[10:06:00] Sunil Kori JOIN
+[11:00:00] Sunil Kori LEAVE
+[10:06:00] Ajay Nayak JOIN
+[11:00:00] Ajay Nayak LEAVE
+[10:06:00] Prem Kumar JOIN
+[11:00:00] Prem Kumar LEAVE
+[10:06:00] Darsh Bishnoi JOIN
+[11:00:00] Darsh Bishnoi LEAVE
+[10:00:00] Vikas Nayak JOIN
+[11:00:00] Vikas Nayak LEAVE
+[10:00:00] A'dii Sunlay JOIN
+[11:00:00] A'dii Sunlay LEAVE
+[10:00:00] Pooja Sudiya JOIN
+[11:00:00] Pooja Sudiya LEAVE
+[10:00:00] Anita Nayak JOIN
+[11:00:00] Anita Nayak LEAVE
+[10:00:00] Rajani Rani JOIN
+[11:00:00] Rajani Rani LEAVE
+[10:00:00] Tarachand Lohara JOIN
+[11:00:00] Tarachand Lohara LEAVE
+[10:00:00] Poonam Kumari JOIN
+[11:00:00] Poonam Kumari LEAVE
+[10:00:00] Arnav Bishnoi JOIN
+[11:00:00] Arnav Bishnoi LEAVE
+[10:00:00] Gagan Nayak JOIN
+[11:00:00] Gagan Nayak LEAVE
+[10:00:00] Pooja Nayak JOIN
+[11:00:00] Pooja Nayak LEAVE
+[10:00:00] Raju Singh JOIN
+[11:00:00] Raju Singh LEAVE
+[10:00:00] Mamta Nayak JOIN
+[11:00:00] Mamta Nayak LEAVE
+[10:00:00] Dinesh Kumar JOIN
+[11:00:00] Dinesh Kumar LEAVE
+[10:00:00] Sahiram Nayak JOIN
+[11:00:00] Sahiram Nayak LEAVE
+[10:00:00] Rajesh Nayak JOIN
+[11:00:00] Rajesh Nayak LEAVE
+[10:00:00] Sandeep Barupal JOIN
+[11:00:00] Sandeep Barupal LEAVE
+[10:00:00] Bhavishya Jiyani JOIN
+[11:00:00] Bhavishya Jiyani LEAVE

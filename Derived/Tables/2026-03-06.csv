@@ -1,0 +1,43 @@
+Name,Join,Leave,DurationSec,Late,Absent
+VikasNayak,10:00:00,11:00:00,3600,False,False
+Anil,10:06:00,11:00:00,3240,True,False
+Anita,10:06:00,11:00:00,3240,True,False
+himanshu,10:06:00,11:00:00,3240,True,False
+A'dii Sunlay,,,0,False,True
+Abhinav Bishnoi,,,0,False,True
+Aira,,,0,False,True
+Ajay Nayak,,,0,False,True
+Anita Nayak,,,0,False,True
+Arnav Bishnoi,,,0,False,True
+Dinesh,,,0,False,True
+Dinesh Kumar,,,0,False,True
+Gagan Chouhan,,,0,False,True
+Gagan Kumar,,,0,False,True
+Gurpreet Singh,,,0,False,True
+Harpreet Singh,,,0,False,True
+Himanshu Nayak,,,0,False,True
+Jaspal Byavat,,,0,False,True
+Khushbu Rani,,,0,False,True
+Mandeep Kaur,,,0,False,True
+Navraj Singh,,,0,False,True
+Nitesh Aggrwal,,,0,False,True
+Paras Aggrwal,,,0,False,True
+Parveen Kumar,,,0,False,True
+Pawan Kumar,,,0,False,True
+Pawan Meghwal,,,0,False,True
+Pooja Nayak,,,0,False,True
+Poonam Kumari,,,0,False,True
+Prem Kumar,,,0,False,True
+Rajani Rani,,,0,False,True
+Rajesh Nayak,,,0,False,True
+Raju Singh,,,0,False,True
+Rajveer Nayak,,,0,False,True
+Sahiram Nayak,,,0,False,True
+Sandeep Barupal,,,0,False,True
+Sapna,,,0,False,True
+Shyo Chand,,,0,False,True
+Sumit,,,0,False,True
+Sunil Kori,,,0,False,True
+Tarachand,,,0,False,True
+Vikas Nayak,,,0,False,True
+Yogesh Khand,,,0,False,True

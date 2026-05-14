@@ -1,0 +1,78 @@
+Name,Join,Leave,DurationSec,Late,Absent
+(Reset from corrected Trigger Block 3 data),10:00:00,11:00:00,3600,False,False
+1. Vikas Nayak,10:00:00,11:00:00,3600,False,False
+10. Abhinav Bishnoi,10:00:00,11:00:00,3600,False,False
+11. Arnav Bishnoi,10:00:00,11:00:00,3600,False,False
+12. Prem Kumar,10:00:00,11:00:00,3600,False,False
+13. Himanshu Nayak,10:00:00,11:00:00,3600,False,False
+14. RAJESH NAYAK,10:00:00,11:00:00,3600,False,False
+15. Poonam Kumari,10:00:00,11:00:00,3600,False,False
+16. Dinesh kumar,10:00:00,11:00:00,3600,False,False
+17. Sahil Sudiya,10:00:00,11:00:00,3600,False,False
+18. khushbu,10:00:00,11:00:00,3600,False,False
+19. Sumit,10:00:00,11:00:00,3600,False,False
+"2. A""dii Sunlay",10:00:00,11:00:00,3600,False,False
+20. SH|VAM-B|SHNOI,10:00:00,11:00:00,3600,False,False
+21. Sandeep Barupal,10:00:00,11:00:00,3600,False,False
+22. Rahul,10:00:00,11:00:00,3600,False,False
+23. Pooja Sudiya,10:00:00,11:00:00,3600,False,False
+24. Anita Nayak,10:00:00,11:00:00,3600,False,False
+25. Harpreet Singh,10:00:00,11:00:00,3600,False,False
+3. Gurpreet Singh 2,10:00:00,11:00:00,3600,False,False
+4. Rajani Rani,10:00:00,11:00:00,3600,False,False
+5. Tarachand,10:00:00,11:00:00,3600,False,False
+6. Sunil kori,10:00:00,11:00:00,3600,False,False
+7. Gagan Chouhan,10:00:00,11:00:00,3600,False,False
+8. Jaspal Byavat,10:00:00,11:00:00,3600,False,False
+9. Harish Jaypal,10:00:00,11:00:00,3600,False,False
+===== 2026-03-10 23:52:57 =====,10:00:00,11:00:00,3600,False,False
+"A""dii Sunlay",10:00:00,11:00:00,3600,False,False
+Abhinav Bishnoi,10:00:00,11:00:00,3600,False,False
+Arnav Bishnoi,10:00:00,11:00:00,3600,False,False
+Dinesh kumar,10:00:00,11:00:00,3600,False,False
+Gagan Chouhan,10:00:00,11:00:00,3600,False,False
+Gurpreet Singh 2,10:00:00,11:00:00,3600,False,False
+Harish Jaypal,10:00:00,11:00:00,3600,False,False
+Harpreet Singh,10:00:00,11:00:00,3600,False,False
+Himanshu Nayak,10:00:00,11:00:00,3600,False,False
+Jaspal Byavat,10:00:00,11:00:00,3600,False,False
+Poonam Kumari,10:00:00,11:00:00,3600,False,False
+Prem Kumar,10:00:00,11:00:00,3600,False,False
+Rajani Rani,10:00:00,11:00:00,3600,False,False
+RAJESH NAYAK,10:00:00,11:00:00,3600,False,False
+SH|VAM-B|SHNOI,10:00:00,11:00:00,3600,False,False
+Sunil kori,10:00:00,11:00:00,3600,False,False
+Tarachand,10:00:00,11:00:00,3600,False,False
+Total Members: 25,10:00:00,11:00:00,3600,False,False
+Vikas Nayak,10:00:00,11:00:00,3600,False,False
+Anita Nayak,10:06:00,11:00:00,3240,True,False
+khushbu,10:06:00,11:00:00,3240,True,False
+Pooja Sudiya,10:06:00,11:00:00,3240,True,False
+Rahul,10:06:00,11:00:00,3240,True,False
+Sahil Sudiya,10:06:00,11:00:00,3240,True,False
+Sandeep Barupal,10:06:00,11:00:00,3240,True,False
+Sumit,10:06:00,11:00:00,3240,True,False
+A'dii Sunlay,,,0,False,True
+Aira,,,0,False,True
+Ajay Nayak,,,0,False,True
+Dinesh,,,0,False,True
+Dinesh Kumar,,,0,False,True
+Gagan Kumar,,,0,False,True
+Gurpreet Singh,,,0,False,True
+Khushbu Rani,,,0,False,True
+Mandeep Kaur,,,0,False,True
+Navraj Singh,,,0,False,True
+Nitesh Aggrwal,,,0,False,True
+Paras Aggrwal,,,0,False,True
+Parveen Kumar,,,0,False,True
+Pawan Kumar,,,0,False,True
+Pawan Meghwal,,,0,False,True
+Pooja Nayak,,,0,False,True
+Rajesh Nayak,,,0,False,True
+Raju Singh,,,0,False,True
+Rajveer Nayak,,,0,False,True
+Sahiram Nayak,,,0,False,True
+Sapna,,,0,False,True
+Shyo Chand,,,0,False,True
+Sunil Kori,,,0,False,True
+Yogesh Khand,,,0,False,True
